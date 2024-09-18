@@ -1,9 +1,9 @@
 <h1 align="center">Hey there, I'm Sun Chaninan Phetpangun 👋</h1> <h3 align="center">Software Engineering Student | <a href="https://www.ict.mahidol.ac.th/" target="_blank">Faculty of ICT</a>, Mahidol University</h3> <h3 align="center">🔍 Passionate about crafting meaningful solutions through code</h3>
 
 ## 💬 About Me:
-🧑‍💻 I’m currently diving deep into software engineering with a focus on building scalable solutions.
-🎯 I’m on a journey to improve in areas like cloud computing, AI, and full-stack development.
-🌟 Fun fact: I love combining creativity and logic to solve complex problems, both in tech and life!
+- 🧑‍💻 I’m currently diving deep into software engineering with a focus on building scalable solutions.
+- 🎯 I’m on a journey to improve in areas like cloud computing, AI, and full-stack development.
+- 🌟 Fun fact: I love combining creativity and logic to solve complex problems, both in tech and life!
 
 ## 🌐 Let's Connect:
 <p align="left"> <a href="https://linkedin.com/in/chaninan-phetpangun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chaninan Phetpangun on LinkedIn" height="30" width="40" /></a> <a href="https://instagram.com/cnnxsun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cnnxsun on Instagram" height="30" width="40" /></a> </p>
