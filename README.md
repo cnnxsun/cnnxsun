@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sun Chaninan Phetpangun 👋</h1> <h3 align="center">Software Engineering Student | <a href="https://www.ict.mahidol.ac.th/" target="_blank">Faculty of ICT</a>, Mahidol University</h3> <h3 align="center">🔍 Passionate about crafting meaningful solutions through code</h3>
+<h1 align="center">Hi, I'm Sun Chaninan Phetpangun 👋</h1> <h3 align="center">Software Engineering | <a href="https://www.ict.mahidol.ac.th/" target="_blank">Faculty of ICT</a>, Mahidol University</h3> <h3 align="center">🔍 Passionate about crafting meaningful solutions through code</h3>
 
 ## 💬 About Me:
 - 🧑‍💻 I’m currently diving deep into software engineering with a focus on building scalable solutions.
